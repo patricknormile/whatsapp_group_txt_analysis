@@ -147,6 +147,9 @@ df['time_act'] = times
 
 """ 
 create object for loading whatsapp message data
+
+NOTE: this automates the above code so you can use with other group chats
+
 """
 
 class WhatsAppDF():
